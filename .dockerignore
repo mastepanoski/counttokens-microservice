@@ -3,3 +3,8 @@ bin
 pyvenv.cfg
 include
 src/__pycache__
+.coverage
+.pytest_cache
+htmlcov
+docker-compose.yml
+run_tests.sh

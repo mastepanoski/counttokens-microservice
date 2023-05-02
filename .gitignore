@@ -3,3 +3,6 @@ bin
 pyvenv.cfg
 include
 src/__pycache__
+.coverage
+.pytest_cache
+htmlcov
